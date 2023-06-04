@@ -1,0 +1,5 @@
+Fighter,Apache A-36,66,1056,34000000
+Fighter,Nighthawk P-70,339,1060,40000000
+Cargo,Cargolux 747-400F,200,1940,55000000
+Cargo,Lockheed C-5,655,6320,56000000
+PassengerJet,Liberator Express,555,8534,68000000
